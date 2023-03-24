@@ -2,69 +2,70 @@ export const exploreWorlds = [
   {
     id: 'world-1',
     imgUrl: '/planet-01.png',
-    title: 'The Hogwarts',
+    title: 'Artificial Intelligence',
   },
   {
     id: 'world-2',
     imgUrl: '/planet-02.png',
-    title: 'The Upside Down',
+    title: 'Web 3.0 & Metaverse',
   },
   {
     id: 'world-3',
     imgUrl: '/planet-03.png',
-    title: 'Kadirojo Permai',
+    title: 'Cloud-Native Computing',
   },
   {
     id: 'world-4',
     imgUrl: '/planet-04.png',
-    title: 'Paradise Island',
+    title: 'Ambient Computing and IoT',
   },
   {
     id: 'world-5',
     imgUrl: '/planet-05.png',
-    title: 'Hawkins Labs',
+    title: 'Genomics and Bioinformatics',
   },
 ];
 
 export const startingFeatures = [
-  'Find a world that suits you and you want to enter',
-  'Enter the world by reading basmalah to be safe',
-  'No need to beat around the bush, just stay on the gas and have fun',
+  'Earn While Learn Model',
+  'Real World Projects for Industry Experience',
+  'It resembles a cross between a corporate venture and an educational project.',
 ];
 
 export const newFeatures = [
   {
     imgUrl: '/vrpano.svg',
-    title: 'A new world',
+    title: 'Full Stack Engineering',
     subtitle:
-        'we have the latest update with new world for you to try never mind',
+        'The graduates of this program will own products (Full-Stack App Templates, AR and VR Experiences, and APIs) that are marketed globally by the Panaverse DAO',
   },
   {
     imgUrl: '/headset.svg',
-    title: 'More realistic',
+    title: 'Freelancing',
     subtitle:
-        'In the latest update, your eyes are narrow, making the world more realistic than ever',
+        'Students will also be able to start off by offering services at a rate of $50 per hour ($96,000 per year) .',
   },
 ];
 
 export const insights = [
   {
     imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
+    title: 'Metavese Workshop',
     subtitle:
-        'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
+      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, laborum. Rerum iure quibusdam adipisci odit numquam error magnam po.'
+      ,
   },
   {
     imgUrl: '/planet-07.png',
-    title: '7 tips to easily master the madness of the Metaverse',
+    title: 'Cloud Computing Seminar',
     subtitle:
-        'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, laborum. Rerum iure quibusdam adipisci odit numquam error magnam po.',
   },
   {
     imgUrl: '/planet-08.png',
-    title: 'With one platform you can explore the whole world virtually',
+    title: 'Aritifical Intelligence Workshop',
     subtitle:
-        'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, laborum. Rerum iure quibusdam adipisci odit numquam error magnam po.',
   },
 ];
 
