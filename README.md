@@ -10,7 +10,7 @@
 * The interface is interactive due to Tailwind be interactive with some meaningfull colors. 🎨
 
 ## FrontEnd Deployed on Vercel:
-https://panaverse.vercel.app/
+https://panaverse-ashy.vercel.app/
 
 ## To Run/Change this design:
 ```
